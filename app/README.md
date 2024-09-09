@@ -4,7 +4,7 @@ We provide a web UI for people who want to run the demo web locally.
 ## Usage
   We use [Gradio](https://gradio.app/) to build our web UI. First, install Gradio through pip.
   ```
-  pip install gradio
+  pip install gradio torchvision
   ```
   Then go to `./app`. 
   ```
