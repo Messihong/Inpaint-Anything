@@ -17,7 +17,8 @@ We provide a web UI for people who want to run the demo web locally.
         --lama_ckpt ../pretrained_models/big-lama \
         --sam_ckpt ../pretrained_models/sam_vit_h_4b8939.pth
   ```
-if you are using windows try
+if you are using windows try 
+
 python app.py --lama_config ../lama/configs/prediction/default.yaml --lama_ckpt ../pretrained_models/big-lama --sam_ckpt ../pretrained_models/sam_vit_h_4b8939.pth
 
 ## Instruction
